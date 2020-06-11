@@ -32,8 +32,8 @@ int main(){
                    }
                    break;
             case 3:peek();
-            //case 4:traverse();
-            //case 5:exit(0);
+            case 4:traverse();
+            case 5:exit(0);
             default:printf("Invalid Input\n");
         }
     }
